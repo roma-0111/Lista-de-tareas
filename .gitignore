@@ -25,3 +25,4 @@ replay_pid*
 
 # Ignorar la carpeta private
 nbproject/private/
+/build/
